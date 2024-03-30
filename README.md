@@ -16,7 +16,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hi! My name is Maxim and I am a Computer Science Student / Full-Stack Developer 👋</h1>
 
 ###
 
