@@ -26,7 +26,8 @@
 
 ###
 
-<p align="left">I'm computer science student minoring in data analytics. Currently working on my own SaaS application for educational institutions. <br><br>- 🔭 I’m mainly focusing on Full-Stack Development, but open to other fields as well</p>
+<h3 align="left">I'm Computer Science student hockey athlete minoring in data analytics. YES! Computer Science Hockey Player!!! <br></br>
+Currently working on leetcode questions.</h3>
 
 ###
 
