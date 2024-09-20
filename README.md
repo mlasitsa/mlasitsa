@@ -22,12 +22,13 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<h3 align="left">I'm Computer Science student hockey athlete minoring in data analytics. YES! Computer Science Hockey Player!!! <br></br>
-Currently working on leetcode questions.</h3>
+<h3 align="center">I'm Computer Science student hockey athlete minoring in data analytics. YES! Computer Science Hockey Player!!! <br></br>
+Currently working on <a href="https://github.com/mlasitsa/leetcode">leetcode questions</a>.</h3>
+
 
 ###
 
