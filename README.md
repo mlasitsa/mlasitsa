@@ -27,7 +27,7 @@
 ###
 
 <h3 align="center">I'm Computer Science student hockey athlete minoring in data analytics. YES! Computer Science Hockey Player!!! <br></br>
-Currently working on <a href="https://github.com/mlasitsa/leetcode">leetcode questions</a> and something cool :) 
+Currently working on something cool :) 
 
 
 
