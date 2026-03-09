@@ -31,7 +31,9 @@ Currently working on something cool :)
 
 
 
+# New Portfolio
 
+<!-- 
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -97,6 +99,7 @@ Currently working on something cool :)
 </div>
 
 ###
+-->
 
 <h3 align="left">🔥   My Stats :</h3>
 
