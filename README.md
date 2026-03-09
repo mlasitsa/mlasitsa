@@ -29,10 +29,6 @@
 <h3 align="center">I'm Computer Science student hockey athlete minoring in data analytics. YES! Computer Science Hockey Player!!! <br></br>
 Currently working on something cool :) 
 
-
-
-# New Portfolio
-
 <!-- 
 ###
 
